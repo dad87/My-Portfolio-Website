@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dad87/My-Portfolio-Website/static/css/main.eb3b975d.css",
+    "main.js": "/dad87/My-Portfolio-Website/static/js/main.ffb33ef5.js",
+    "static/js/453.acca0757.chunk.js": "/dad87/My-Portfolio-Website/static/js/453.acca0757.chunk.js",
+    "static/media/mindfullLogo.png": "/dad87/My-Portfolio-Website/static/media/mindfullLogo.68b22c68720acb831516.png",
+    "static/media/awsLogo.png": "/dad87/My-Portfolio-Website/static/media/awsLogo.a89fd636dfb4197f8a9c.png",
+    "index.html": "/dad87/My-Portfolio-Website/index.html",
+    "main.eb3b975d.css.map": "/dad87/My-Portfolio-Website/static/css/main.eb3b975d.css.map",
+    "main.ffb33ef5.js.map": "/dad87/My-Portfolio-Website/static/js/main.ffb33ef5.js.map",
+    "453.acca0757.chunk.js.map": "/dad87/My-Portfolio-Website/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb3b975d.css",
+    "static/js/main.ffb33ef5.js"
+  ]
+}
